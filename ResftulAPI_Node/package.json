@@ -1,0 +1,28 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "etag": "^1.8.1",
+    "express": "^4.17.1",
+    "jsonschema": "^1.2.4",
+    "jsonwebtoken": "^8.5.1",
+    "kafka-node": "^5.0.0",
+    "kafkajs": "^1.11.0",
+    "nodemon": "^1.19.4",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1.0.0"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "description": "demo"
+}
