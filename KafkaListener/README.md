@@ -1,7 +1,7 @@
 ## Running the Kafka Consumer Application
 
 ### Pre-requisites
-1. Java
+1. Java and SpringBoot
 
 ### Application
 - This application subscribes to the Kafka queue
