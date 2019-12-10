@@ -2,6 +2,7 @@
 
 ### Pre-requisites
 1. Java and SpringBoot
+2. Before running this app, please initialize Zookeeper, Kafka and ElasticSearch service locally.
 
 ### Application
 - This application subscribes to the Kafka queue
